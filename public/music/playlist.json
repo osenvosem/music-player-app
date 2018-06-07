@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "artist": "Blackjwell",
+    "song": "Falls",
+    "url": "/music/Blackjwell — Falls.mp3",
+    "length": 20
+  },
+  {
+    "id": 2,
+    "artist": "Canton",
+    "song": "Harmonic",
+    "url": "/music/Canton — Harmonic.mp3",
+    "length": 23
+  },
+  {
+    "id": 3,
+    "artist": "Dix",
+    "song": "805",
+    "url": "/music/Dix — 805.mp3",
+    "length": 21
+  },
+  {
+    "id": 4,
+    "artist": "Heraclyde",
+    "song": "Havin a Ride Inside",
+    "url": "/music/Heraclyde — Havin a Ride Inside.mp3",
+    "length": 24
+  },
+  {
+    "id": 5,
+    "artist": "Peppy & The Firing Squad",
+    "song": "Y=MX+B",
+    "url": "/music/Peppy & The Firing Squad — Y=MX+B.mp3",
+    "length": 25
+  },
+  {
+    "id": 6,
+    "artist": "Seed A.I.",
+    "song": "2D",
+    "url": "/music/Seed A.I. — 2D.mp3",
+    "length": 27
+  },
+  {
+    "id": 7,
+    "artist": "Sparse",
+    "song": "You're too late",
+    "url": "/music/Sparse — You're too late.mp3",
+    "length": 22
+  },
+  {
+    "id": 8,
+    "artist": "Subinfected",
+    "song": "Subinfection Show Me",
+    "url": "/music/Subinfected — Subinfection Show Me.mp3",
+    "length": 28
+  }
+]
